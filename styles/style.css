@@ -35,3 +35,6 @@ normal{
 hard{
     color: red
 }
+de{
+    text-decoration: line-through;
+}
