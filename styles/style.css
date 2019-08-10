@@ -1,11 +1,11 @@
 html {
   font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */  
-  background-color: #191980;
+  background-color: #5858FA;
 }
 body {
   width: 750px;
   margin: 0 auto;
-  background-color: #00FFFF;
+  background-color: #79FAFE;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
@@ -15,7 +15,7 @@ img {
 }
 h1 {
   color: #00539F;
-  text-shadow: 3px 3px 1px red;
+  text-shadow: 3px 3px 1px green;
 }
 
 p, li {
