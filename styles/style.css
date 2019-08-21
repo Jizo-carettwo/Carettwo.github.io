@@ -35,6 +35,9 @@ normal{
 hard{
     color: red
 }
+hardp{
+    color: darkred
+}
 de{
     text-decoration: line-through;
 }
