@@ -4,6 +4,12 @@
 	"url": "https://www.soundorbis.net/",
 	"bpm": "150",
 	"startTime": 90,
+    "bgColor": 
+	[
+	"#ccffff",
+	"4dff4d"
+   	],
+
 	"level": {
 		"easy": "-",
 		"normal": "6",
