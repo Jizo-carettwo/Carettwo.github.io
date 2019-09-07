@@ -10,6 +10,16 @@
 
     "startTime": 800,
 
+    "bgColor":
+    
+    [
+	
+        "#7cfc00",
+
+        "#ffccff"
+   	
+    ],
+    
     "level": {
 
         "easy": "-",
