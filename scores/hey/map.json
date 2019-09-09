@@ -4,8 +4,8 @@
     "url": "https://www.soundorbis.net/",
     "bpm": "150",
     "startTime": 90,
-    "bgcolor": [
-    "#e0ffff",
+    "bgColor": [
+    "#b0e0e6",
     "#bdfc7e"
     ],
     "level": {
