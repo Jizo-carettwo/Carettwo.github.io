@@ -5,8 +5,8 @@
     "bpm": "170",
     "startTime": 50,
     "bgColor": [
-	"#8b008b",
-	"#ffd6bf"
+	"#00008b",
+    "#9370db"   
    	],
     "level": {
         "easy": "-",
