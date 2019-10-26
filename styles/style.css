@@ -1,11 +1,11 @@
 html {
   font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */  
-background-color: #00bfff;
+background-color: paleturquoise;
 }
 body {
   width: 750px;
   margin: 0 auto;
-  background-color: cyan;
+  background-color: lightyellow;
   padding: 0 20px 20px 20px;
   border: 3px solid black;
 }
