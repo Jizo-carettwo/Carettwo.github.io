@@ -2,10 +2,11 @@
 	"title": "ダークサンバランド ~LAST BOSS~",
 	"artist": "ダークサンバマスター 佐藤 -SATOH-",
 	"bpm": "145.0",
-	"startTime": -1420,
+	"startTime": 90,
      "bgColor": [
     "#000000",
-    "#0d0015"],
+    "#0d0015"
+    ],
 	"level": {
 		"easy": "-",
 		"normal": "-",
