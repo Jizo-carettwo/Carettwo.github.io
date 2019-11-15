@@ -17,10 +17,6 @@ h1 {
   color: #00539F;
   text-shadow: 3px 2px 1px cyan;
 }
-h2{
-   color: lightskyblue ;
-    text-shadow: 3px 3px 1px lightgreen;
-}
 p, li {
   font-size: 16px;    
   line-height: 2;
