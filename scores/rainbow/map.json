@@ -3,6 +3,10 @@
 	"artist": "Ym1024 feat. lamie*",
 	"bpm": "184",
 	"startTime": 80,
+    "bgColor":[
+    "#e0ffff",
+    "#ffc0cb"  
+    ],
 	"level": {
 		"easy": "-",
 		"normal": "7",
