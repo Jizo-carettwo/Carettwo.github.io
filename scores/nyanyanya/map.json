@@ -9,9 +9,9 @@
     "#98fb97"   
    	],
 	"level": {
-		"easy": "2",
-		"normal": "2",
-		"hard": "2"
+		"easy": "-",
+		"normal": "-",
+		"hard": "12"
 	},
 	"map": {
 		"easy": [
